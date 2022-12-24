@@ -1,0 +1,11 @@
+{
+  "name": "@zjkuang/hello",
+  "version": "0.0.1",
+  "description": "try npx command",
+  "main": "index.js",
+  "bin": "bin.js",
+  "repository": "https://github.com/zjkuang/zjkuang-hello.git",
+  "author": "Zhengqian Kuang <dev.kuang@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
